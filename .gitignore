@@ -1,0 +1,11 @@
+target/
+*.class
+.idea/
+.vscode/
+*.iml
+.env
+application.properties
+src/main/resources/application.properties
+
+# Local exported data - keep out of GitHub
+*_export.csv

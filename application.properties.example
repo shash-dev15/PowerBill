@@ -1,0 +1,3 @@
+# Copy to src/main/resources/application.properties and adjust locally.
+mongodb.uri=mongodb://127.0.0.1:27017
+mongodb.database=powerbill_db
