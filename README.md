@@ -1,11 +1,10 @@
-CP-071 PowerBill: Slab-Based Utility Billing Engine
+# CP-071 PowerBill: Slab-Based Utility Billing Engine
 
 # Team
 - Shashank S (1AT24CS201)
 - Sujan PS (1AT24CS220)
 
 # How to run
-
 **Requirements:** Java 21, Apache Maven 3.10 or compatible, and MongoDB Community Server.
 
 1. Clone the repository and enter the project directory:
